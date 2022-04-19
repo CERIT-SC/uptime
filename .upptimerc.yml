@@ -15,6 +15,7 @@ sites:
     url: https://cerit.io
   - name: CERIT-SC Gitlab -- Git and CI/CD service
     url: https://gitlab.ics.muni.cz
+    icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/gitlab.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
