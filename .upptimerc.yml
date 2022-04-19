@@ -8,6 +8,7 @@ sites:
     icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/rancher.svg
   - name: CERIT-SC Kubernetes Cluster -- Kuba Public
     url: http://kuba-pub.cerit-sc.cz
+    icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/rke2.svg
   - name: CERIT-SC User Documentation
     url: https://docs.cerit.io
   - name: CERIT-SC Container Registry -- cerit.io
