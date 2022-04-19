@@ -13,6 +13,7 @@ sites:
     url: https://docs.cerit.io
   - name: CERIT-SC Container Registry -- cerit.io
     url: https://cerit.io
+    icon: https://github.com/CERIT-SC/uptime/raw/master/icon/Moby-logo.png
   - name: CERIT-SC Gitlab -- Git and CI/CD service
     url: https://gitlab.ics.muni.cz
     icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/gitlab.svg
