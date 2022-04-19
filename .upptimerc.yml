@@ -6,7 +6,7 @@ sites:
   - name: Rancher
     url: https://rancher.cloud.e-infra.cz
   - name: Kuba
-    url: https://kuba-pub.cerit-sc.cz
+    url: http://kuba-pub.cerit-sc.cz
   - name: Docs
     url: https://docs.cerit.io
   - name: CERIT.io
