@@ -25,6 +25,9 @@ sites:
   - name: Jupyter HUB
     url: https://hub.cloud.e-infra.cz/
     icon: https://hub.cloud.e-infra.cz/hub/logo
+  - name: Binder HUB
+    url: https://binderhub.cloud.e-infra.cz/
+    icon: https://binderhub.readthedocs.io/en/latest/_static/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
