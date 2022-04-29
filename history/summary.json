@@ -150,19 +150,19 @@
     "url": "https://hub.cloud.e-infra.cz/",
     "icon": "https://hub.cloud.e-infra.cz/hub/logo",
     "slug": "jupyter-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1618,
-    "timeDay": 1670,
-    "timeWeek": 1585,
-    "timeMonth": 1618,
-    "timeYear": 1618,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1686,
+    "timeDay": 2153,
+    "timeWeek": 1717,
+    "timeMonth": 1686,
+    "timeYear": 1686,
     "dailyMinutesDown": {
-      "2022-04-29": 0
+      "2022-04-29": 21
     }
   },
   {
