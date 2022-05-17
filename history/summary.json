@@ -60,9 +60,9 @@
     "url": "https://cerit.io",
     "icon": "https://github.com/CERIT-SC/uptime/raw/master/icon/Moby-logo.png",
     "slug": "cerit-sc-container-registry-cerit-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 709,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "CERIT-SC Gitlab -- Git and CI/CD service",
