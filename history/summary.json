@@ -60,19 +60,19 @@
     "url": "https://cerit.io",
     "icon": "https://github.com/CERIT-SC/uptime/raw/master/icon/Moby-logo.png",
     "slug": "cerit-sc-container-registry-cerit-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 642,
-    "timeWeek": 709,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "87.75%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 705,
+    "timeDay": 713,
+    "timeWeek": 719,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2022-05-17": 0
+      "2022-05-17": 176
     }
   },
   {
