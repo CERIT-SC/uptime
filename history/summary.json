@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/rancher.svg",
     "slug": "cerit-sc-rancher-kubernetes-management-portal",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.59%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.59%",
     "time": 1245,
     "timeDay": 1142,
     "timeWeek": 1248,
     "timeMonth": 1180,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2022-05-22": 3
+      "2022-05-22": 195
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://kuba-pub.cerit-sc.cz",
     "icon": "https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/rke2.svg",
     "slug": "cerit-sc-kubernetes-cluster-kuba-public",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 782,
-    "timeWeek": 569,
-    "timeMonth": 568,
-    "timeYear": 594,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.59%",
+    "time": 592,
+    "timeDay": 642,
+    "timeWeek": 561,
+    "timeMonth": 566,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-05-22": 2
+      "2022-05-22": 194
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://github.com/CERIT-SC/uptime/raw/master/icon/Moby-logo.png",
     "slug": "cerit-sc-container-registry-cerit-io",
     "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.22%",
+    "uptimeDay": "86.50%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.22%",
     "time": 702,
     "timeDay": 604,
     "timeWeek": 678,
     "timeMonth": 662,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-05-22": 2,
+      "2022-05-22": 194,
       "2022-05-17": 176
     }
   },
@@ -107,18 +107,18 @@
     "icon": "https://assets.zabbix.com/img/favicon.ico",
     "slug": "zabbix-monitoring-system",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.59%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.59%",
     "time": 1026,
     "timeDay": 822,
     "timeWeek": 834,
     "timeMonth": 1002,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2022-05-22": 1
+      "2022-05-22": 194
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://tesk-prod.cloud.e-infra.cz/swagger-ui.html",
     "icon": "https://raw.githubusercontent.com/elixir-cloud-aai/TESK/master/documentation/img/TESKlogowfont.png",
     "slug": "task-execution-service-k8s-tesk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1316,
-    "timeDay": 1206,
-    "timeWeek": 1341,
-    "timeMonth": 1265,
-    "timeYear": 1316,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.59%",
+    "time": 1314,
+    "timeDay": 1218,
+    "timeWeek": 1327,
+    "timeMonth": 1263,
+    "timeYear": 1314,
     "dailyMinutesDown": {
-      "2022-05-22": 1
+      "2022-05-22": 193
     }
   },
   {
@@ -147,18 +147,18 @@
     "icon": "https://favicons.githubusercontent.com/wes-prod.cloud.e-infra.cz",
     "slug": "workflow-execution-service-k8s-wes",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.59%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.59%",
     "time": 1241,
     "timeDay": 1352,
     "timeWeek": 1275,
     "timeMonth": 1170,
     "timeYear": 1241,
     "dailyMinutesDown": {
-      "2022-05-22": 1
+      "2022-05-22": 193
     }
   },
   {
@@ -167,18 +167,18 @@
     "icon": "https://hub.cloud.e-infra.cz/hub/logo",
     "slug": "jupyter-hub",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.53%",
+    "uptimeDay": "86.59%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.53%",
     "time": 1745,
     "timeDay": 2261,
     "timeWeek": 1517,
     "timeMonth": 1766,
     "timeYear": 1745,
     "dailyMinutesDown": {
-      "2022-05-22": 0,
+      "2022-05-22": 193,
       "2022-05-11": 11,
       "2022-04-29": 21
     }
@@ -189,18 +189,18 @@
     "icon": "https://binderhub.readthedocs.io/en/latest/_static/logo.png",
     "slug": "binder-hub",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.60%",
+    "uptimeDay": "86.61%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.60%",
     "time": 2568,
     "timeDay": 2524,
     "timeWeek": 2455,
     "timeMonth": 2586,
     "timeYear": 2568,
     "dailyMinutesDown": {
-      "2022-05-22": 0
+      "2022-05-22": 193
     }
   }
 ]
