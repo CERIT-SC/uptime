@@ -50,12 +50,12 @@
     "url": "https://docs.cerit.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cerit.io.ico",
     "slug": "cerit-sc-user-documentation",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "92.54%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "92.53%",
     "uptimeWeek": "97.04%",
     "uptimeMonth": "97.15%",
-    "uptimeYear": "99.11%",
+    "uptimeYear": "99.12%",
     "time": 209,
     "timeDay": 222,
     "timeWeek": 223,
@@ -118,7 +118,7 @@
       "2022-09-20": 41,
       "2022-09-19": 135,
       "2022-09-18": 11,
-      "2022-09-17": 40
+      "2022-09-17": 25
     }
   },
   {
@@ -158,7 +158,7 @@
     "slug": "cerit-sc-gitlab-git-and-ci-cd-service",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.42%",
+    "uptimeDay": "98.40%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.77%",
