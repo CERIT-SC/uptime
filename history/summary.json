@@ -50,12 +50,12 @@
     "url": "https://docs.cerit.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cerit.io.ico",
     "slug": "cerit-sc-user-documentation",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "97.08%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "97.07%",
     "uptimeWeek": "96.74%",
     "uptimeMonth": "97.26%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 209,
     "timeDay": 169,
     "timeWeek": 217,
@@ -117,8 +117,7 @@
       "2022-09-24": 24,
       "2022-09-23": 33,
       "2022-09-21": 49,
-      "2022-09-20": 41,
-      "2022-09-19": 39
+      "2022-09-20": 41
     }
   },
   {
