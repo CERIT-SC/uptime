@@ -9,6 +9,11 @@ sites:
   - name: CERIT-SC Kubernetes Cluster -- Kuba Public
     url: http://kuba-pub.cerit-sc.cz
     icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/rke2.svg
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+      - 404
   - name: CERIT-SC User Documentation
     url: https://docs.cerit.io
   - name: CERIT-SC Container Registry -- cerit.io
