@@ -36,6 +36,12 @@ sites:
   - name: Binder HUB
     url: https://binderhub.cloud.e-infra.cz/
     icon: https://binderhub.readthedocs.io/en/latest/_static/logo.png
+  - name: e-INFRA CZ OpenStack site in Brno
+    url: https://identity.cloud.muni.cz/v3/
+    icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/openstack.png
+  - name: e-INFRA CZ OpenStack site in Ostrava
+    url: https://identity.ostrava.openstack.cloud.e-infra.cz/v3/
+    icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/openstack.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
