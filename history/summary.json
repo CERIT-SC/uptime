@@ -59,19 +59,19 @@
     "url": "https://docs.cerit.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.cerit.io.ico",
     "slug": "cerit-sc-user-documentation",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "98.83%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 210,
     "timeDay": 311,
     "timeWeek": 293,
     "timeMonth": 217,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-04-13": 17,
+      "2023-04-13": 18,
       "2023-01-19": 10,
       "2023-01-12": 34,
       "2023-01-10": 95,
@@ -111,7 +111,7 @@
       "2022-12-04": 21,
       "2022-12-03": 11,
       "2022-12-02": 75,
-      "2022-12-01": 132
+      "2022-12-01": 101
     }
   },
   {
@@ -119,9 +119,9 @@
     "url": "https://cerit.io",
     "icon": "https://github.com/CERIT-SC/uptime/raw/master/icon/Moby-logo.png",
     "slug": "cerit-sc-container-registry-cerit-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.74%",
@@ -131,6 +131,7 @@
     "timeMonth": 630,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2023-03-17": 10,
       "2022-12-18": 11,
       "2022-12-13": 17,
