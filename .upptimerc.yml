@@ -42,6 +42,9 @@ sites:
   - name: e-INFRA CZ OpenStack site in Ostrava
     url: https://identity.ostrava.openstack.cloud.e-infra.cz/v3/
     icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/openstack.png
+  - name: EOSC Indico
+    url: https://events.eosc.cz
+    icon: https://indico.cern.ch/images/logo_indico.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
