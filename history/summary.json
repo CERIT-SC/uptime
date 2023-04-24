@@ -390,9 +390,9 @@
     "url": "https://events.eosc.cz",
     "icon": "https://indico.cern.ch/images/logo_indico.png",
     "slug": "eosc-indico",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.76%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "98.76%",
@@ -402,6 +402,7 @@
     "timeMonth": 1037,
     "timeYear": 1037,
     "dailyMinutesDown": {
+      "2023-04-24": 0,
       "2023-04-23": 43,
       "2023-04-22": 11,
       "2023-04-21": 17
