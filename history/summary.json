@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1208,
-    "timeDay": 929,
-    "timeWeek": 1214,
-    "timeMonth": 1174,
-    "timeYear": 1203,
+    "time": 1207,
+    "timeDay": 922,
+    "timeWeek": 1076,
+    "timeMonth": 1165,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2023-03-17": 11,
       "2022-10-23": 21,
       "2022-10-22": 5,
-      "2022-05-23": 703,
-      "2022-05-22": 277
+      "2022-05-23": 703
     }
   },
   {
@@ -35,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 542,
-    "timeDay": 499,
-    "timeWeek": 526,
-    "timeMonth": 528,
-    "timeYear": 537,
+    "timeDay": 387,
+    "timeWeek": 505,
+    "timeMonth": 524,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2023-04-06": 12,
       "2023-03-31": 71,
@@ -50,8 +49,7 @@
       "2022-12-24": 18,
       "2022-11-22": 257,
       "2022-09-09": 28,
-      "2022-05-28": 4,
-      "2022-05-22": 194
+      "2022-05-28": 4
     }
   },
   {
@@ -66,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 211,
-    "timeDay": 200,
-    "timeWeek": 223,
-    "timeMonth": 231,
+    "timeDay": 162,
+    "timeWeek": 222,
+    "timeMonth": 230,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-04-13": 71,
@@ -126,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 636,
-    "timeDay": 624,
-    "timeWeek": 569,
-    "timeMonth": 634,
-    "timeYear": 627,
+    "timeDay": 671,
+    "timeWeek": 563,
+    "timeMonth": 629,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2023-04-13": 54,
       "2023-03-17": 10,
@@ -144,8 +142,7 @@
       "2022-09-24": 19,
       "2022-09-17": 20,
       "2022-06-21": 39,
-      "2022-05-23": 703,
-      "2022-05-22": 276
+      "2022-05-23": 703
     }
   },
   {
@@ -154,16 +151,16 @@
     "icon": "https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/gitlab.svg",
     "slug": "cerit-sc-gitlab-git-and-ci-cd-service",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "90.89%",
+    "uptime": "99.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.60%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.79%",
     "time": 1239,
-    "timeDay": 968,
-    "timeWeek": 990,
-    "timeMonth": 1246,
-    "timeYear": 1200,
+    "timeDay": 1249,
+    "timeWeek": 998,
+    "timeMonth": 1249,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-05-20": 132,
       "2023-05-18": 163,
@@ -191,16 +188,15 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.83%",
-    "time": 941,
-    "timeDay": 632,
-    "timeWeek": 775,
-    "timeMonth": 841,
-    "timeYear": 933,
+    "time": 940,
+    "timeDay": 614,
+    "timeWeek": 734,
+    "timeMonth": 832,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2023-05-19": 11,
       "2023-05-02": 34,
-      "2022-05-23": 584,
-      "2022-05-22": 276
+      "2022-05-23": 584
     }
   },
   {
@@ -215,9 +211,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 1363,
-    "timeDay": 1253,
-    "timeWeek": 1173,
-    "timeMonth": 1344,
+    "timeDay": 1366,
+    "timeWeek": 1160,
+    "timeMonth": 1339,
     "timeYear": 1368,
     "dailyMinutesDown": {
       "2023-04-06": 11,
@@ -227,8 +223,7 @@
       "2022-08-20": 1440,
       "2022-08-19": 155,
       "2022-07-29": 25,
-      "2022-05-28": 4,
-      "2022-05-22": 193
+      "2022-05-28": 4
     }
   },
   {
@@ -243,10 +238,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
     "time": 1225,
-    "timeDay": 1112,
-    "timeWeek": 1198,
-    "timeMonth": 1197,
-    "timeYear": 1224,
+    "timeDay": 1130,
+    "timeWeek": 1121,
+    "timeMonth": 1183,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2023-04-06": 11,
       "2023-03-31": 70,
@@ -258,8 +253,7 @@
       "2022-07-29": 11,
       "2022-07-07": 690,
       "2022-07-06": 1383,
-      "2022-05-28": 3,
-      "2022-05-22": 216
+      "2022-05-28": 3
     }
   },
   {
@@ -273,11 +267,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.74%",
-    "time": 1700,
-    "timeDay": 1602,
-    "timeWeek": 1637,
-    "timeMonth": 1433,
-    "timeYear": 1698,
+    "time": 1699,
+    "timeDay": 1038,
+    "timeWeek": 1651,
+    "timeMonth": 1418,
+    "timeYear": 1695,
     "dailyMinutesDown": {
       "2023-04-24": 109,
       "2023-04-23": 48,
@@ -301,8 +295,7 @@
       "2022-07-05": 24,
       "2022-05-28": 3,
       "2022-05-24": 25,
-      "2022-05-23": 33,
-      "2022-05-22": 215
+      "2022-05-23": 33
     }
   },
   {
@@ -316,11 +309,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 2371,
-    "timeDay": 2628,
-    "timeWeek": 2384,
-    "timeMonth": 2506,
-    "timeYear": 2354,
+    "time": 2373,
+    "timeDay": 3117,
+    "timeWeek": 2421,
+    "timeMonth": 2521,
+    "timeYear": 2355,
     "dailyMinutesDown": {
       "2023-04-06": 11,
       "2023-03-31": 70,
@@ -346,8 +339,7 @@
       "2022-08-21": 13,
       "2022-07-29": 25,
       "2022-05-31": 21,
-      "2022-05-28": 3,
-      "2022-05-22": 215
+      "2022-05-28": 3
     }
   },
   {
@@ -394,16 +386,16 @@
     "icon": "https://indico.cern.ch/images/logo_indico.png",
     "slug": "eosc-indico",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 1831,
-    "timeDay": 943,
-    "timeWeek": 1012,
-    "timeMonth": 1873,
-    "timeYear": 1831,
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.61%",
+    "time": 1810,
+    "timeDay": 920,
+    "timeWeek": 965,
+    "timeMonth": 1886,
+    "timeYear": 1810,
     "dailyMinutesDown": {
       "2023-05-05": 11,
       "2023-05-02": 51,
