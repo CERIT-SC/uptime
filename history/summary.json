@@ -13,7 +13,7 @@
     "time": 1206,
     "timeDay": 845,
     "timeWeek": 1105,
-    "timeMonth": 1163,
+    "timeMonth": 1171,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2023-03-17": 11,
@@ -27,7 +27,7 @@
     "icon": "https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/rke2.svg",
     "slug": "cerit-sc-kubernetes-cluster-kuba-public",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -35,7 +35,7 @@
     "time": 552,
     "timeDay": 335,
     "timeWeek": 1179,
-    "timeMonth": 678,
+    "timeMonth": 688,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2023-04-06": 12,
@@ -65,7 +65,7 @@
     "time": 211,
     "timeDay": 123,
     "timeWeek": 240,
-    "timeMonth": 227,
+    "timeMonth": 232,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2023-04-13": 71,
@@ -125,7 +125,7 @@
     "time": 636,
     "timeDay": 699,
     "timeWeek": 628,
-    "timeMonth": 639,
+    "timeMonth": 646,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2023-04-13": 54,
@@ -151,13 +151,13 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.60%",
+    "uptimeWeek": "97.07%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.79%",
     "time": 1239,
     "timeDay": 1299,
-    "timeWeek": 1054,
-    "timeMonth": 1261,
+    "timeWeek": 1067,
+    "timeMonth": 1265,
     "timeYear": 1200,
     "dailyMinutesDown": {
       "2023-05-20": 132,
@@ -189,7 +189,7 @@
     "time": 940,
     "timeDay": 960,
     "timeWeek": 792,
-    "timeMonth": 843,
+    "timeMonth": 844,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2023-05-19": 11,
@@ -210,7 +210,7 @@
     "time": 1364,
     "timeDay": 1357,
     "timeWeek": 1265,
-    "timeMonth": 1357,
+    "timeMonth": 1361,
     "timeYear": 1371,
     "dailyMinutesDown": {
       "2023-04-06": 11,
@@ -237,7 +237,7 @@
     "time": 1225,
     "timeDay": 1161,
     "timeWeek": 1159,
-    "timeMonth": 1186,
+    "timeMonth": 1188,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2023-04-06": 11,
@@ -262,12 +262,12 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.79%",
     "time": 1698,
     "timeDay": 1221,
     "timeWeek": 1732,
-    "timeMonth": 1458,
+    "timeMonth": 1462,
     "timeYear": 1697,
     "dailyMinutesDown": {
       "2023-04-24": 109,
@@ -307,7 +307,7 @@
     "time": 2373,
     "timeDay": 2205,
     "timeWeek": 2457,
-    "timeMonth": 2524,
+    "timeMonth": 2540,
     "timeYear": 2360,
     "dailyMinutesDown": {
       "2023-04-06": 11,
@@ -360,9 +360,9 @@
     "url": "https://identity.ostrava.openstack.cloud.e-infra.cz/v3/",
     "icon": "https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/openstack.png",
     "slug": "e-infra-cz-open-stack-site-in-ostrava",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.24%",
+    "uptimeDay": "99.20%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.80%",
@@ -372,6 +372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-05-23": 11,
       "2023-05-19": 141
     }
@@ -390,7 +391,7 @@
     "time": 1795,
     "timeDay": 1454,
     "timeWeek": 1128,
-    "timeMonth": 1981,
+    "timeMonth": 2012,
     "timeYear": 1795,
     "dailyMinutesDown": {
       "2023-05-05": 11,
