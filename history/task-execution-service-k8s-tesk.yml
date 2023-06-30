@@ -1,7 +1,7 @@
-url: https://tesk-prod.cloud.e-infra.cz/swagger-ui.html
+url: https://tesk-prod.cloud.e-infra.cz/swagger-ui/index.html
 status: down
-code: 404
-responseTime: 1485
-lastUpdated: 2023-06-30T23:13:53.999Z
+code: 401
+responseTime: 1229
+lastUpdated: 2023-06-30T23:23:27.843Z
 startTime: Tue Apr 19 2022 20:49:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
