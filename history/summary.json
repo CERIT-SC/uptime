@@ -345,11 +345,11 @@
     "url": "https://identity.cloud.muni.cz/v3/",
     "icon": "https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/openstack.png",
     "slug": "e-infra-cz-open-stack-site-in-brno",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-17": 1
+      "2023-09-17": 11
     }
   },
   {
@@ -369,7 +369,7 @@
     "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.34%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "98.09%",
     "time": 0,
     "timeDay": 0,
