@@ -123,9 +123,9 @@
     "url": "https://cerit.io",
     "icon": "https://github.com/CERIT-SC/uptime/raw/master/icon/Moby-logo.png",
     "slug": "cerit-sc-container-registry-cerit-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -135,6 +135,7 @@
     "timeMonth": 645,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2023-10-21": 0,
       "2023-04-13": 54,
       "2023-03-17": 10,
       "2022-12-18": 11,
@@ -315,7 +316,7 @@
     "timeDay": 1982,
     "timeWeek": 2238,
     "timeMonth": 2774,
-    "timeYear": 2424,
+    "timeYear": 2386,
     "dailyMinutesDown": {
       "2023-10-03": 16,
       "2023-10-01": 349,
