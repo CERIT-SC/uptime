@@ -1,7 +1,7 @@
 url: https://gitlab.ics.muni.cz
-status: down
-code: 502
-responseTime: 846
-lastUpdated: 2023-11-01T09:35:46.864Z
+status: up
+code: 200
+responseTime: 1018
+lastUpdated: 2023-11-01T09:47:05.656Z
 startTime: 2022-04-19T18:23:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
