@@ -49,6 +49,9 @@ sites:
   - name: EOSC Indico
     url: https://events.eosc.cz
     icon: https://indico.cern.ch/images/logo_indico.png
+  - name: EOSC Survey Platform
+    url: https://survey.eosc.cz
+    icon: https://www.limesurvey.org/templates/limesurvey/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
