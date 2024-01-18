@@ -1,7 +1,7 @@
 url: https://binderhub.cloud.e-infra.cz/
-status: down
-code: 504
-responseTime: 16202
-lastUpdated: 2024-01-17T23:49:01.284Z
+status: up
+code: 200
+responseTime: 2339
+lastUpdated: 2024-01-18T01:24:02.229Z
 startTime: 2022-04-19T20:54:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
