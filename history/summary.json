@@ -134,8 +134,7 @@
       "2023-05-12": 19,
       "2023-04-06": 11,
       "2023-02-08": 12,
-      "2023-02-05": 76,
-      "2023-01-18": 15
+      "2023-02-05": 76
     }
   },
   {
@@ -253,18 +252,19 @@
     "icon": "https://binderhub.readthedocs.io/en/latest/_static/logo.png",
     "slug": "binder-hub",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.79%",
+    "uptimeDay": "94.02%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.85%",
     "time": 2382,
     "timeDay": 9108,
     "timeWeek": 3655,
     "timeMonth": 2635,
     "timeYear": 2390,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-18": 75,
+      "2024-01-17": 11,
       "2024-01-09": 64,
       "2024-01-08": 139,
       "2023-10-03": 16,
