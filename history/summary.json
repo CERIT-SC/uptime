@@ -368,9 +368,9 @@
     "url": "https://survey.eosc.cz",
     "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
     "slug": "eosc-survey-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
@@ -380,6 +380,7 @@
     "timeMonth": 1190,
     "timeYear": 1188,
     "dailyMinutesDown": {
+      "2024-02-11": 0,
       "2024-02-03": 63,
       "2024-02-02": 5
     }
