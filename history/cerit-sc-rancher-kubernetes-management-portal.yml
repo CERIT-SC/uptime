@@ -1,7 +1,7 @@
 url: https://rancher.cloud.e-infra.cz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-11T17:41:58.287Z
+status: up
+code: 200
+responseTime: 888
+lastUpdated: 2024-03-11T17:52:44.422Z
 startTime: 2022-04-19T18:23:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
