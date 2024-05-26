@@ -1,7 +1,7 @@
 url: http://kuba-pub.cerit-sc.cz
-status: up
-code: 404
-responseTime: 400
-lastUpdated: 2024-05-26T07:36:15.018Z
+status: down
+code: 502
+responseTime: 475
+lastUpdated: 2024-05-26T07:47:26.373Z
 startTime: 2022-04-19T18:23:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
