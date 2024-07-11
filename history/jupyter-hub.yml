@@ -1,7 +1,7 @@
 url: https://hub.cloud.e-infra.cz/
-status: up
-code: 200
-responseTime: 26026
-lastUpdated: 2024-07-11T17:31:19.435Z
+status: down
+code: 503
+responseTime: 1316
+lastUpdated: 2024-07-11T18:17:58.650Z
 startTime: 2022-04-19T20:51:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
