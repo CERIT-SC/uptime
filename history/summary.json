@@ -13,7 +13,7 @@
     "time": 1114,
     "timeDay": 1225,
     "timeWeek": 1216,
-    "timeMonth": 1087,
+    "timeMonth": 1092,
     "timeYear": 1095,
     "dailyMinutesDown": {
       "2024-04-06": 10,
@@ -37,7 +37,7 @@
     "time": 499,
     "timeDay": 617,
     "timeWeek": 687,
-    "timeMonth": 532,
+    "timeMonth": 535,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2024-05-26": 366,
@@ -63,7 +63,7 @@
     "time": 234,
     "timeDay": 368,
     "timeWeek": 250,
-    "timeMonth": 275,
+    "timeMonth": 278,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-10-26": 16,
@@ -84,7 +84,7 @@
     "time": 680,
     "timeDay": 788,
     "timeWeek": 730,
-    "timeMonth": 696,
+    "timeMonth": 701,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2024-03-21": 25,
@@ -109,7 +109,7 @@
     "time": 1085,
     "timeDay": 1104,
     "timeWeek": 1125,
-    "timeMonth": 1078,
+    "timeMonth": 1082,
     "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-07-30": 11,
@@ -144,7 +144,7 @@
     "time": 766,
     "timeDay": 813,
     "timeWeek": 822,
-    "timeMonth": 754,
+    "timeMonth": 757,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2024-04-06": 10
@@ -164,7 +164,7 @@
     "time": 1228,
     "timeDay": 1043,
     "timeWeek": 1271,
-    "timeMonth": 1206,
+    "timeMonth": 1205,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2023-10-03": 17
@@ -184,7 +184,7 @@
     "time": 1193,
     "timeDay": 804,
     "timeWeek": 1211,
-    "timeMonth": 1163,
+    "timeMonth": 1161,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2024-01-04": 11,
@@ -196,18 +196,19 @@
     "url": "https://hub.cloud.e-infra.cz/",
     "icon": "https://hub.cloud.e-infra.cz/hub/logo",
     "slug": "jupyter-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.89%",
-    "time": 1716,
+    "time": 1714,
     "timeDay": 1284,
-    "timeWeek": 1630,
-    "timeMonth": 1481,
+    "timeWeek": 1652,
+    "timeMonth": 1484,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2024-08-19": 0,
       "2024-08-15": 23,
       "2024-08-12": 102,
       "2024-07-11": 202,
@@ -236,7 +237,7 @@
     "time": 2341,
     "timeDay": 3383,
     "timeWeek": 2993,
-    "timeMonth": 2434,
+    "timeMonth": 2436,
     "timeYear": 2309,
     "dailyMinutesDown": {
       "2024-07-11": 19,
@@ -317,7 +318,7 @@
     "time": 1182,
     "timeDay": 1486,
     "timeWeek": 1255,
-    "timeMonth": 1147,
+    "timeMonth": 1154,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2024-06-27": 76,
@@ -342,7 +343,7 @@
     "time": 1192,
     "timeDay": 1546,
     "timeWeek": 1311,
-    "timeMonth": 1228,
+    "timeMonth": 1235,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2024-04-06": 8,
