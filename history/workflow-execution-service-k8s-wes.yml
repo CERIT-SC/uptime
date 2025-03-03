@@ -1,7 +1,7 @@
 url: https://wes-prod.cloud.e-infra.cz/ga4gh/wes/v1/ui/
-status: down
-code: 503
-responseTime: 1476
-lastUpdated: 2025-03-03T08:47:26.566Z
+status: up
+code: 200
+responseTime: 1186
+lastUpdated: 2025-03-03T08:58:36.207Z
 startTime: 2022-04-19T20:49:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
