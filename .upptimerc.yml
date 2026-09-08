@@ -22,6 +22,14 @@ sites:
   - name: CERIT-SC Gitlab -- Git and CI/CD service
     url: https://gitlab.ics.muni.cz
     icon: https://raw.githubusercontent.com/CERIT-SC/uptime/master/icon/gitlab.svg
+  - name: NRP Kubernetes Cluster 
+    url: http://app1.nrp1.du.cesnet.cz/
+    icon: https://blue-cloud.org/sites/default/files/inline-images/EOSC-logo-colour.png
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 302
+      - 404
   - name: Zabbix Monitoring System
     url: https://zabbix.cerit-sc.cz/
     icon: https://assets.zabbix.com/img/favicon.ico
