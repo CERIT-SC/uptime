@@ -52,7 +52,7 @@
     "timeDay": 2294,
     "timeWeek": 2066,
     "timeMonth": 2454,
-    "timeYear": 1883,
+    "timeYear": 1884,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "timeDay": 1628,
     "timeWeek": 1842,
     "timeMonth": 1548,
-    "timeYear": 1363,
+    "timeYear": 1364,
     "dailyMinutesDown": {
       "2025-12-30": 312,
       "2026-03-31": 85,
@@ -151,12 +151,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.86%",
+    "uptimeYear": "21.90%",
     "time": 1088,
     "timeDay": 1640,
     "timeWeek": 1505,
     "timeMonth": 1466,
-    "timeYear": 994,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2026-05-27": 1047,
       "2026-05-26": 1440,
@@ -351,7 +351,6 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
       "2026-08-28": 62,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -480,7 +479,7 @@
     "timeDay": 1734,
     "timeWeek": 1668,
     "timeMonth": 2322,
-    "timeYear": 1779,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2026-03-16": 66,
       "2026-11-03": 220,
@@ -503,7 +502,7 @@
     "timeDay": 1942,
     "timeWeek": 2044,
     "timeMonth": 2164,
-    "timeYear": 2346,
+    "timeYear": 2347,
     "dailyMinutesDown": {
       "2026-04-27": 129
     }
@@ -523,7 +522,7 @@
     "timeDay": 1274,
     "timeWeek": 1312,
     "timeMonth": 966,
-    "timeYear": 889,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2025-12-04": 43,
       "2025-12-12": 393,
@@ -766,7 +765,7 @@
     "timeDay": 969,
     "timeWeek": 878,
     "timeMonth": 894,
-    "timeYear": 915,
+    "timeYear": 916,
     "dailyMinutesDown": {}
   },
   {
@@ -792,19 +791,20 @@
     "url": "https://survey.eosc.cz",
     "icon": "https://www.limesurvey.org/templates/limesurvey/favicon.ico",
     "slug": "eosc-survey-platform",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "84.84%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.96%",
     "time": 1111,
-    "timeDay": 732,
-    "timeWeek": 1107,
-    "timeMonth": 1101,
-    "timeYear": 1082,
+    "timeDay": 878,
+    "timeWeek": 1114,
+    "timeMonth": 1103,
+    "timeYear": 1083,
     "dailyMinutesDown": {
-      "2026-11-14": 1
+      "2026-11-15": 25,
+      "2026-11-14": 194
     }
   }
 ]
